@@ -1,8 +1,10 @@
 David ima x pobjeda i y poraza!
 Lovre ima z pobjeda i n poraza!
 
+
 . x x
 . . .
 o o o
+
 
 
